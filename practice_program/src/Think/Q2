@@ -1,0 +1,61 @@
+1.To verify User should click on AddNew  button.
+2.To verify User should enter item name.
+3.To verify User should enter discription about item.
+4.To verify User should enter price of item .
+5.Try to add multiple items.
+6.Remove all or one item.
+7.Try to add more than one quantity of the same item.
+8.To verify User should click on picture Upload butoon.
+9.To verify picture should contain name of item.
+10.To verify picture should contain discription of item.
+11.To verify picture should contain price of item.
+12.To verify it should display thumbnails of every added item.
+13.To verify every item should have Remove button.
+14.After click on new item,items detail page gets open
+15.To verify after click on any item it should display name of item.
+16.To verify after click on any item it should display discription of item.
+17.To verify after click on any item it should display price of item.
+18.To verify after click on any item it should display picture of item.
+
+Backend:
+
+1.Whether the mapping of the database fields and columns in the back end is compatible with those mappings in the front end.
+
+2.Validation of the length and naming convention of the database fields. 
+3.Columns as specified by the requirements.
+
+4.Whether the database fields allow the user to provide desired user inputs as required by the business requirement specification documents.
+
+5.Check whether the references for foreign keys are valid.
+
+6.Check whether the data type of the primary key and the corresponding foreign keys are same in the two tables.
+
+7.Check whether the required naming conventions have been followed for all the keys and indexes.
+
+8.Check the size and length of the required fields and indexes.
+9.Check 
+Whether the 
+required
+Clustered indexes
+
+Non Clustered indexes
+
+have been created on the required tables as specified by the business requirements.
+
+API:
+
+1.To verify that the API receives input and returnes the expecte output as specified in the requirenment.
+2.To verify that the response status code is returned as specified in the requirenment whether it returnes 
+2xx or error code
+3.Specify input with minimum required fields and with maximum fields..
+4.To verify that the API returnes an appropriate response when the expected output does not exist.
+3.perform input validation test
+4.verify the APIs behviours with different levels of authorization.
+
+
+
+
+
+
+
+

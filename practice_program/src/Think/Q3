@@ -1,0 +1,48 @@
+Whether the mapping of the database fields and columns in the back end is compatible with those mappings in the front end.
+Validation of the length and naming convention of the database fields and columns as specified by the requirements.
+Whether the database fields allow the user to provide desired user inputs as required by the business requirement specification documents.
+Check whether the references for foreign keys are valid.
+Check whether the data type of the primary key and the corresponding foreign keys are same in the two tables.
+Check whether the required naming conventions have been followed for all the keys and indexes.
+Check the size and length of the required fields and indexes.
+Whether the required
+Clustered indexes
+Non Clustered indexes
+have been created on the required tables as specified by the business requirements.
+
+Observations:
+
+1. In connection Details 
+---Total load ....enter 2 and then below values are auto populated 
+now click on calculate load. 
+then the Total load becomes 0 and auto populated values are still there
+
+2. 
+Title and Name textbox and dropdown size not matching
+
+3. Applicant details and Power Supply Address separated by lines which is not good
+
+4. See the font ahead ----Whether power supply address same is billing address-----The font style of YES and NO are different.
+
+5. Payment option----> Payment Options 
+
+6. Check websites in all browsers ....
+
+7. Logos can be shown in Big size 
+
+8 Two logos are combined which is not good for User 
+
+9.Background of Applicant Details should be in light color
+
+10. Help section should be centre aligned
+
+
+11. Yes is Camel case and NO is all Caps
+
+12. Check Title dropdown M/S all caps others are Camel case
+
+13 In connection details ---> Supply voltage ----> if user selects LT or HT focus goes to start of the page ...This should npt happen..
+
+14.  In connection details --->Purpose of supply----> Required in mentioned that is not needed since start of the page we have mentioned that * are compulsory fields
+
+15.  In connection details --->total load ---> put `1----> it redirected to error page instead it should give oon page itself
